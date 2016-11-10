@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "233128325395",
+    "firebase_url": "https://logeoudea.firebaseio.com",
+    "project_id": "logeoudea",
+    "storage_bucket": "logeoudea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233128325395:android:2c3990e5e9e8fcb5",
+        "android_client_info": {
+          "package_name": "com.edwinacubillos.logeoudea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233128325395-906qv2igsa0d7anfo2oh4n2sijns28b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edwinacubillos.logeoudea",
+            "certificate_hash": "53E2FAC6A71DE8A94CB7AA8D9E11FE0DC29EF839"
+          }
+        },
+        {
+          "client_id": "233128325395-iehsdehk86ehahro7gar3741rjrdrivh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL4aWDtuX9nnt8osOJNW_a1HyN6EYJjBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233128325395-iehsdehk86ehahro7gar3741rjrdrivh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
